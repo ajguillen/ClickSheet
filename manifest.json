@@ -1,12 +1,20 @@
 {
   "name": "Click Sheet Pro",
   "short_name": "ClickSheet",
-  "start_url": ".",
+  "description": "Gestión de tareas - Empresas Polar",
+  "start_url": "/ClickSheet/?v=2",
   "display": "standalone",
+  "background_color": "#0f204b",
+  "theme_color": "#0f204b",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "CS-icon-192.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "CS-icon-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
